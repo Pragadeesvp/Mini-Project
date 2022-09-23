@@ -3,7 +3,7 @@ This script take a link of any URL and generate a QR code corresponding to it.
 
 ## Library Used
 * [pyqrcode](https://github.com/lincolnloop/python-qrcode)
-* [png]
+* [png] (https://gitlab.com/drj11/pypng/)
 
 ### To install required external modules
 * Run `pip install qrcode` 
