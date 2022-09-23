@@ -1,5 +1,3 @@
-
-
 import pyqrcode 
 
 import png 
